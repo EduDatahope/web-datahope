@@ -171,8 +171,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 100px;
-  width: 100px;
+  height: 400px;
+  width: 400px;
   margin: auto 0;
 }
 
@@ -314,9 +314,6 @@ section {
   margin: auto 0;
 }
 
-
-/* EXPERIENCE SECTION */
-
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -369,8 +366,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 50%;
+  height: 50%;
 }
 
 .project-title {
